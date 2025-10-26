@@ -1,0 +1,12 @@
+networkx
+scipy
+qiskit
+qiskit-aer
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+tqdm
+joblib
